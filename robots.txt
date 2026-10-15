@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /gorman-recruiting/thank-you.html
+Disallow: /gorman-recruiting/404.html
+Sitemap: https://braydenweinel14-dot.github.io/gorman-recruiting/sitemap.xml
